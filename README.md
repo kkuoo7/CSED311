@@ -6,7 +6,7 @@
 
 ## Assignments
 ### ALU & RTL Design
-Simple vending machine FSM implementation with Verilog.
+Simple vending machine FSM implementation with Verilog. </br>
 [Link](Lab1)
 
 ### Single Cycle CPU
